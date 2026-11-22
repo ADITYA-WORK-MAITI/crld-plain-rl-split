@@ -1,0 +1,26 @@
+{
+ "plain_e=3.0_r=3.0": {
+  "contributor_share_mean": 0.4566666666666666,
+  "sd": 0.04887626099538395,
+  "formula": 0.4375,
+  "share_of_agents_locked_in": 1.0,
+  "corr_initial_prob_vs_final_choice": 0.8554072588880649
+ },
+ "plain_e=10.0_r=3.0": {
+  "contributor_share_mean": 0.49500000000000005,
+  "sd": 0.06934214687571574,
+  "formula": 0.4772727272727273,
+  "share_of_agents_locked_in": 1.0,
+  "corr_initial_prob_vs_final_choice": 0.8233546087590531
+ },
+ "plain_e=1.0_r=3.0": {
+  "contributor_share_mean": 0.355,
+  "sd": 0.10364201207361166,
+  "formula": 0.375,
+  "share_of_agents_locked_in": 1.0,
+  "corr_initial_prob_vs_final_choice": 0.8183216423854686
+ },
+ "importance_weighted_e=3_r=3": {
+  "contributor_share": 0.12
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "description": "replicator dynamics, N=50, r=3: set of final contributor counts over 20 runs, by e",
+ "result": {
+  "0.25": [
+   0
+  ],
+  "1.0": [
+   0
+  ],
+  "3.0": [
+   0
+  ],
+  "10.0": [
+   0
+  ]
+ }
+}

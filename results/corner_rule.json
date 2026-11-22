@@ -1,0 +1,12 @@
+{
+ "alpha=1.0,T=600": {
+  "self_weighted": "531/531",
+  "replicator": "580/580",
+  "mismatches": []
+ },
+ "alpha=0.2,T=6000": {
+  "self_weighted": "531/531",
+  "replicator": "580/580",
+  "mismatches": []
+ }
+}
