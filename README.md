@@ -44,6 +44,8 @@ with R_C = e − 1 + r(1 + m)/N and R_D = e + r m/N, where m is the expected num
 
 ## Results
 
+![Contributor share against flat endowment](figures/split_vs_endowment.png)
+
 **Stability rule** (`corner_rule.json`). Across 1,111 non-marginal corners of random games, the plain dynamics attract a corner if and only if every agent's reward there is positive: 531 of 531 agree. The replicator attracts a corner if and only if it is a strict Nash equilibrium: 580 of 580 agree.
 
 **Sweep** (`pgg_sweep.csv`, 150 runs per setting).
